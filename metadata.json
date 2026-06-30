@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Awesome Claude Developer Hub",
+  "description": "An interactive, highly visual developer dashboard and suite for Claude AI. Features a curated awesome resource directory, a custom project workspace bootstrapper with mandatory markdown file creators, a visual Model Context Protocol (MCP) config generator, an interactive API code playground, Claude model comparison matrix, and a Gemini-powered developer assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
